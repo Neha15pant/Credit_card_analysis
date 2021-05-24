@@ -1,0 +1,2 @@
+# Credit_card_analysis
+Segmentation in marketing is a technique used to divide customers or other entities into groups based on attributes such as behaviour or demographics.  The top challenge faced by marketers is understanding who they are selling to. Once you know your buyer personas, you can tailor your targeting and offerings to increase their satisfaction and your revenue as a result. When you already have a pool of customers and plenty of data, it can be incredibly useful to segment them.  Here we will be using Credit card data to segment the customers.
